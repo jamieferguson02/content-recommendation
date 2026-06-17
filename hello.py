@@ -1,0 +1,1 @@
+print("FYP Content Recommendation Platform - environment setup complete")
